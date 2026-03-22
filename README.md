@@ -34,15 +34,13 @@ All reports and dashboards created for this project are **exported and presented
 ## 🛠️ Tools & Techniques Used  
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
-- Data Cleaning & Transformation  
-- Data Visualization  
+- Data Cleaning & Transformation    
 - Basic Excel Formulas  
 
 ---
 
 ## 📂 Project Files  
-- 📄 HR Attrition Reports (PDF format)  
-- 📊 Excel files (if included)  
+- 📄 HR Attrition Reports (PDF format)   
 
 ---
 
